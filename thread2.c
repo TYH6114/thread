@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <pthread.h>
-
+#thaideptrai
 void *thread_function(void *arg);
 char message[] = "Hello World";
 int run_now=1;
