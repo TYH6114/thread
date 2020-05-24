@@ -4,6 +4,7 @@
 #include <string.h>
 #include <pthread.h>
 #thaideptrai
+# dep trai lan 2 nhe
 void *thread_function(void *arg);
 char message[] = "Hello World";
 int run_now=1;
